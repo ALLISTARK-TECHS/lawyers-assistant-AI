@@ -53,13 +53,13 @@ GROQ_API_KEY = "your-groq-api-key"
 
 Run the application:
 
-streamlit run ogundiranai.py
+streamlit run ogundiranAI.py
 
 Project Structure
 
 lawyers-assistant-AI/
 │
-├── ogundiranai.py
+├── ogundiranAI.py
 ├── README.md
 └── requirements.txt
 
